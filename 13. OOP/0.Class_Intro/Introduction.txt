@@ -1,0 +1,8 @@
+OOP is Object oriented programming.
+Characteristics:
+1. Inheritance
+2. Polymorphism
+3. Encapsulation
+
+If any language have lack of these 3 character then
+that's not Object Oriented Programming Language.

@@ -1,0 +1,7 @@
+SOLID 
+
+S -> Specific class specific task
+O -> Class should not be modified by adding more codes
+L -> Class methods, fields should not be replaced by any other class methods, fields etc which doesn't match to that class
+I -> Class shouldn't have unnecessary field, methods 
+D -> Class should not be fully dependent on other class
