@@ -11,6 +11,10 @@ public class Abstraction {
 
 abstract class mainAbstractClass {
     abstract public void message();
+
+    public void helloWorld() {
+        System.out.println("Hello w");
+    }
 }
 
 class extendedAbstructClass extends mainAbstractClass {
