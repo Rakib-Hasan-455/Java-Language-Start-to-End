@@ -1,5 +1,5 @@
-// TreeSet is ordered set which have only common single elements
-
+// TreeSet is ordered and sorted set which have only common single elements
+// Ordered means the way it's inserted and the way it's in output
 package Set;
 
 import java.util.Iterator;

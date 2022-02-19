@@ -1,14 +1,15 @@
-// Hashset is unordered set which have only common single elements
-// Unordered means it's sequence is random
+// Linked HashSet is ordered and unsorted set
 
 package Set;
 
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashSet;
+import java.util.TreeSet;
 
-public class HashSett {
+public class LinkedHashSett {
     public static void main(String[] args) {
-        HashSet<String> hashSet = new HashSet<>();
+        LinkedHashSet<String> hashSet = new LinkedHashSet<>();
 
         hashSet.add("Dog");
         hashSet.add("Cat");
