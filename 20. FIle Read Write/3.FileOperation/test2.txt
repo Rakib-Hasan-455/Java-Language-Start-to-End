@@ -1,0 +1,1 @@
+Hello this is a test for Character STream write.
